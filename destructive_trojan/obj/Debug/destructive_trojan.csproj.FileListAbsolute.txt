@@ -1,0 +1,13 @@
+C:\Users\Worm\source\repos\destructive_trojan\destructive_trojan\bin\Debug\TrojanXD.exe
+C:\Users\Worm\source\repos\destructive_trojan\destructive_trojan\bin\Debug\TrojanXD.pdb
+C:\Users\Worm\source\repos\destructive_trojan\destructive_trojan\obj\Debug\destructive_trojan.csproj.CoreCompileInputs.cache
+C:\Users\Worm\source\repos\destructive_trojan\destructive_trojan\obj\Debug\TrojanXD.exe
+C:\Users\Worm\source\repos\destructive_trojan\destructive_trojan\obj\Debug\TrojanXD.pdb
+H:\destructive_trojan\destructive_trojan\bin\Debug\TrojanXD.exe.config
+H:\destructive_trojan\destructive_trojan\bin\Debug\TrojanXD.exe
+H:\destructive_trojan\destructive_trojan\bin\Debug\TrojanXD.pdb
+H:\destructive_trojan\destructive_trojan\obj\Debug\destructive_trojan.csproj.AssemblyReference.cache
+H:\destructive_trojan\destructive_trojan\obj\Debug\destructive_trojan.csproj.SuggestedBindingRedirects.cache
+H:\destructive_trojan\destructive_trojan\obj\Debug\destructive_trojan.csproj.CoreCompileInputs.cache
+H:\destructive_trojan\destructive_trojan\obj\Debug\TrojanXD.exe
+H:\destructive_trojan\destructive_trojan\obj\Debug\TrojanXD.pdb
